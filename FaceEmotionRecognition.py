@@ -1,8 +1,4 @@
-# Inha university 
-# 2020-1 A.I (CSE4302)
-# Midterm
 # Face Emotion Recognition Project 
-# 12131569 이용민
 
 import pandas 
 import numpy
