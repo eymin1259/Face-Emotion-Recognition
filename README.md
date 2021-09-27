@@ -18,4 +18,3 @@ FER2013 is images with (48x48x1) dimension,
 however, Korean Dataset consists of images of different sizes (MxNx3).
 Apply data manipulation techniques to scale Korean dataset to have the same dimension as European dataset.
 
-* 구현한 파이썬 코드파일 이외의 파일은 파일크기제한 문제로 미업로드
